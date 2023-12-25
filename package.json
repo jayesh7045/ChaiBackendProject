@@ -1,0 +1,22 @@
+{
+  "name": "backendglobalpro1",
+  "version": "1.0.0",
+  "description": "This is my Global Project from Chai and Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon src/index.js"
+  },
+  "keywords": [
+    "Node",
+    "JavaScript",
+    "Mongoose"
+  ],
+  "author": "Jayesh Harish Wadhwani",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
